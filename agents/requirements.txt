@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+groq
+requests
+PyPDF2
+Pillow
+python-multipart
